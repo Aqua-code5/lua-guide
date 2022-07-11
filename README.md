@@ -44,3 +44,11 @@ print (2^2) -- prints  4
 print(5%2) -- prints 1
 
 print(-b) -- prints -2
+```
+
+##Strings
+```
+local info = "my name is rob and i am "
+local age = 18
+print(info .. age .. " years old!")
+```
