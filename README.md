@@ -52,3 +52,30 @@ local info = "my name is rob and i am "
 local age = 18
 print(info .. age .. " years old!")
 ```
+
+
+## If statements aka Conditional Statements
+
+example 1
+
+```
+local a = true
+local b = false
+
+if a == true then
+  print("A is true")
+elseif b == true then
+  print("B is true")
+else 
+  print("A & B arn't true")
+end
+```
+
+example 2 
+```
+local x = 5 
+if x < 10 then
+  print(" X is less then 10")
+end
+```
+
